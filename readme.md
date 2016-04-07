@@ -1,4 +1,4 @@
-# AngularPagination 
+# -- DEPRECATED -- AngularPagination 
 
 A pagination directive for AngularJS. Works great with Laravel 5 pagination.
 
